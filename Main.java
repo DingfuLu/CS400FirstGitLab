@@ -1,4 +1,5 @@
 /*
+ * Dingfu Lu, dlu73@wisc.edu, dingfu
  * Test the use of the Color method
  */
 import java.util.*;

@@ -1,4 +1,5 @@
 /*
+ * 	Dingfu Lu, dlu73@wisc.edu, dingfu
  *	Color class
  */
 public class Color{
